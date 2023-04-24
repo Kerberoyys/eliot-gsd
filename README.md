@@ -1,8 +1,7 @@
 - 👋 Hi, I’m eliot
 - 👀 I’m interested in network
-- 🌱 I’m currently learning cybersecu
+- 🌱 I’m currently learning cyberdef
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me no
 
 <!---
 eliot-gsd/eliot-gsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
